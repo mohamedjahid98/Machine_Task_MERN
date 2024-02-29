@@ -1,4 +1,4 @@
-#Client (Frontend: React)<br>
+# Client (Frontend: React)<br>
 	1.npm init vite ->react ->js //optional<br>
 	2.npm install //mandatory<br>
 	3.npm install bootstrap axios react-router-dom<br>
@@ -10,7 +10,7 @@
     9.Blog page click in my personal portfolio page display.<br>
     10.npm run dev<br>
 
-#Server (Backend: Node js, Express) & (Database:Mongodb)<br>
+# Server (Backend: Node js, Express) & (Database:Mongodb)<br>
 	1.npm init -y //optional<br>
 	2.npm i express cors mongoose nodemon // first time install all and next time only npm install<br>
 	3.package.json ->     "start": "nodemon index.js" <br>
