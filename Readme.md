@@ -1,4 +1,4 @@
-# Client (Frontend: React)<br>
+# Client (Frontend: React)
 	1.npm init vite ->react ->js //optional<br>
 	2.npm install //mandatory<br>
 	3.npm install bootstrap axios react-router-dom<br>
