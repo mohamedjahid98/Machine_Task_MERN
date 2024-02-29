@@ -1,5 +1,5 @@
-Client (Frontend: React)
-	1.npm init vite ->react ->js //optional
+Client (Frontend: React)<br>
+	1.npm init vite ->react ->js //optional<br>
 	2.npm install //mandatory
 	3.npm install bootstrap axios react-router-dom
 	4.Go to Signup page to fill the form and relocate the Login page to Put the e-mail and password.
